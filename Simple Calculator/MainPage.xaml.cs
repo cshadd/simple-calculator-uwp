@@ -26,5 +26,10 @@ namespace Simple_Calculator
         {
             this.InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
