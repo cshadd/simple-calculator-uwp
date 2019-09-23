@@ -27,9 +27,9 @@ namespace Simple_Calculator
             this.InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Exit_Tapped(object sender, TappedRoutedEventArgs e)
         {
-
+            Application.Current.Exit();
         }
     }
 }
