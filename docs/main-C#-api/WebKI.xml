@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method" Url="html/M-Simple_Calculator.CalculatorProcessor.Add.htm" />
+  <HelpKINode Title="App class">
+    <HelpKINode Title="App Class" Url="html/T-Simple_Calculator.App.htm" />
+    <HelpKINode Title="App Members" Url="html/AllMembers.T-Simple_Calculator.App.htm" />
+    <HelpKINode Title="about App class" Url="html/T-Simple_Calculator.App.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Simple_Calculator.App.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Simple_Calculator.App.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Simple_Calculator.App.htm" />
+  </HelpKINode>
+  <HelpKINode Title="App.App constructor" Url="html/M-Simple_Calculator.App.-ctor.htm" />
+  <HelpKINode Title="App.OnLaunched method" Url="html/M-Simple_Calculator.App.OnLaunched.htm" />
+  <HelpKINode Title="App.OnNavigationFailed method" Url="html/M-Simple_Calculator.App.OnNavigationFailed.htm" />
+  <HelpKINode Title="App.OnSuspending method" Url="html/M-Simple_Calculator.App.OnSuspending.htm" />
+  <HelpKINode Title="AppendDecimal method" Url="html/M-Simple_Calculator.CalculatorProcessor.AppendDecimal.htm" />
+  <HelpKINode Title="AppendNumber method" Url="html/M-Simple_Calculator.CalculatorProcessor.AppendNumber.htm" />
+  <HelpKINode Title="C method" Url="html/M-Simple_Calculator.CalculatorProcessor.C.htm" />
+  <HelpKINode Title="CalculatorProcessor class">
+    <HelpKINode Title="CalculatorProcessor Class" Url="html/T-Simple_Calculator.CalculatorProcessor.htm" />
+    <HelpKINode Title="CalculatorProcessor Members" Url="html/AllMembers.T-Simple_Calculator.CalculatorProcessor.htm" />
+    <HelpKINode Title="about CalculatorProcessor class" Url="html/T-Simple_Calculator.CalculatorProcessor.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Simple_Calculator.CalculatorProcessor.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Simple_Calculator.CalculatorProcessor.-ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Simple_Calculator.CalculatorProcessor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Simple_Calculator.CalculatorProcessor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Simple_Calculator.CalculatorProcessor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CalculatorProcessor.Add method" Url="html/M-Simple_Calculator.CalculatorProcessor.Add.htm" />
+  <HelpKINode Title="CalculatorProcessor.AppendDecimal method" Url="html/M-Simple_Calculator.CalculatorProcessor.AppendDecimal.htm" />
+  <HelpKINode Title="CalculatorProcessor.AppendNumber method" Url="html/M-Simple_Calculator.CalculatorProcessor.AppendNumber.htm" />
+  <HelpKINode Title="CalculatorProcessor.C method" Url="html/M-Simple_Calculator.CalculatorProcessor.C.htm" />
+  <HelpKINode Title="CalculatorProcessor.CalculatorProcessor constructor" Url="html/M-Simple_Calculator.CalculatorProcessor.-ctor.htm" />
+  <HelpKINode Title="CalculatorProcessor.CE method" Url="html/M-Simple_Calculator.CalculatorProcessor.CE.htm" />
+  <HelpKINode Title="CalculatorProcessor.ClearHistory method" Url="html/M-Simple_Calculator.CalculatorProcessor.ClearHistory.htm" />
+  <HelpKINode Title="CalculatorProcessor.Delete method" Url="html/M-Simple_Calculator.CalculatorProcessor.Delete.htm" />
+  <HelpKINode Title="CalculatorProcessor.Div method" Url="html/M-Simple_Calculator.CalculatorProcessor.Div.htm" />
+  <HelpKINode Title="CalculatorProcessor.history property" Url="html/P-Simple_Calculator.CalculatorProcessor.history.htm" />
+  <HelpKINode Title="CalculatorProcessor.Mul method" Url="html/M-Simple_Calculator.CalculatorProcessor.Mul.htm" />
+  <HelpKINode Title="CalculatorProcessor.NoDelete property" Url="html/P-Simple_Calculator.CalculatorProcessor.NoDelete.htm" />
+  <HelpKINode Title="CalculatorProcessor.OneOverX method" Url="html/M-Simple_Calculator.CalculatorProcessor.OneOverX.htm" />
+  <HelpKINode Title="CalculatorProcessor.Percent method" Url="html/M-Simple_Calculator.CalculatorProcessor.Percent.htm" />
+  <HelpKINode Title="CalculatorProcessor.Problem class">
+    <HelpKINode Title="CalculatorProcessor.Problem Class" Url="html/T-Simple_Calculator.CalculatorProcessor.Problem.htm" />
+    <HelpKINode Title="CalculatorProcessor.Problem Members" Url="html/AllMembers.T-Simple_Calculator.CalculatorProcessor.Problem.htm" />
+    <HelpKINode Title="about CalculatorProcessor.Problem class" Url="html/T-Simple_Calculator.CalculatorProcessor.Problem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Simple_Calculator.CalculatorProcessor.Problem.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Simple_Calculator.CalculatorProcessor.Problem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Simple_Calculator.CalculatorProcessor.Problem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CalculatorProcessor.problem field" Url="html/F-Simple_Calculator.CalculatorProcessor.problem.htm" />
+  <HelpKINode Title="CalculatorProcessor.ReverseOperationNumber method" Url="html/M-Simple_Calculator.CalculatorProcessor.ReverseOperationNumber.htm" />
+  <HelpKINode Title="CalculatorProcessor.Solve method" Url="html/M-Simple_Calculator.CalculatorProcessor.Solve.htm" />
+  <HelpKINode Title="CalculatorProcessor.solver field" Url="html/F-Simple_Calculator.CalculatorProcessor.solver.htm" />
+  <HelpKINode Title="CalculatorProcessor.Sqr method" Url="html/M-Simple_Calculator.CalculatorProcessor.Sqr.htm" />
+  <HelpKINode Title="CalculatorProcessor.Sqrt method" Url="html/M-Simple_Calculator.CalculatorProcessor.Sqrt.htm" />
+  <HelpKINode Title="CalculatorProcessor.Sub method" Url="html/M-Simple_Calculator.CalculatorProcessor.Sub.htm" />
+  <HelpKINode Title="CalculatorProcessor.ToString method" Url="html/M-Simple_Calculator.CalculatorProcessor.ToString.htm" />
+  <HelpKINode Title="CE method" Url="html/M-Simple_Calculator.CalculatorProcessor.CE.htm" />
+  <HelpKINode Title="ClearHistory method" Url="html/M-Simple_Calculator.CalculatorProcessor.ClearHistory.htm" />
+  <HelpKINode Title="CreateHistoryPlaceHolder method" Url="html/M-Simple_Calculator.MainPage.CreateHistoryPlaceHolder.htm" />
+  <HelpKINode Title="Delete method" Url="html/M-Simple_Calculator.CalculatorProcessor.Delete.htm" />
+  <HelpKINode Title="Div method" Url="html/M-Simple_Calculator.CalculatorProcessor.Div.htm" />
+  <HelpKINode Title="history property" Url="html/P-Simple_Calculator.CalculatorProcessor.history.htm" />
+  <HelpKINode Title="MainPage class">
+    <HelpKINode Title="MainPage Class" Url="html/T-Simple_Calculator.MainPage.htm" />
+    <HelpKINode Title="MainPage Members" Url="html/AllMembers.T-Simple_Calculator.MainPage.htm" />
+    <HelpKINode Title="about MainPage class" Url="html/T-Simple_Calculator.MainPage.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Simple_Calculator.MainPage.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Simple_Calculator.MainPage.-ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Simple_Calculator.MainPage.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Simple_Calculator.MainPage.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Simple_Calculator.MainPage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainPage.CreateHistoryPlaceHolder method" Url="html/M-Simple_Calculator.MainPage.CreateHistoryPlaceHolder.htm" />
+  <HelpKINode Title="MainPage.MainPage constructor" Url="html/M-Simple_Calculator.MainPage.-ctor.htm" />
+  <HelpKINode Title="MainPage.Operation method" Url="html/M-Simple_Calculator.MainPage.Operation.htm" />
+  <HelpKINode Title="MainPage.processor field" Url="html/F-Simple_Calculator.MainPage.processor.htm" />
+  <HelpKINode Title="MainPage.ShowingHistory property" Url="html/P-Simple_Calculator.MainPage.ShowingHistory.htm" />
+  <HelpKINode Title="Mul method" Url="html/M-Simple_Calculator.CalculatorProcessor.Mul.htm" />
+  <HelpKINode Title="NegativeExists method" Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.NegativeExists.htm" />
+  <HelpKINode Title="NoDelete property" Url="html/P-Simple_Calculator.CalculatorProcessor.NoDelete.htm" />
+  <HelpKINode Title="OneOverX method" Url="html/M-Simple_Calculator.CalculatorProcessor.OneOverX.htm" />
+  <HelpKINode Title="OnLaunched method" Url="html/M-Simple_Calculator.App.OnLaunched.htm" />
+  <HelpKINode Title="OnNavigationFailed method" Url="html/M-Simple_Calculator.App.OnNavigationFailed.htm" />
+  <HelpKINode Title="OnSuspending method" Url="html/M-Simple_Calculator.App.OnSuspending.htm" />
+  <HelpKINode Title="Operation method" Url="html/M-Simple_Calculator.MainPage.Operation.htm" />
+  <HelpKINode Title="Percent method" Url="html/M-Simple_Calculator.CalculatorProcessor.Percent.htm" />
+  <HelpKINode Title="Problem class">
+    <HelpKINode Title="constructor" Url="html/Overload-Simple_Calculator.CalculatorProcessor.Problem.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="problem field" Url="html/F-Simple_Calculator.CalculatorProcessor.problem.htm" />
+  <HelpKINode Title="Problem.NegativeExists method" Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.NegativeExists.htm" />
+  <HelpKINode Title="Problem.Problem constructor" Url="html/Overload-Simple_Calculator.CalculatorProcessor.Problem.-ctor.htm" />
+  <HelpKINode Title="Problem.ProperExpression method" Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.ProperExpression.htm" />
+  <HelpKINode Title="Problem.ProperFormat method" Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.ProperFormat.htm" />
+  <HelpKINode Title="Problem.Raw property" Url="html/P-Simple_Calculator.CalculatorProcessor.Problem.Raw.htm" />
+  <HelpKINode Title="Problem.Result property" Url="html/P-Simple_Calculator.CalculatorProcessor.Problem.Result.htm" />
+  <HelpKINode Title="Problem.SetRawWithNumber method" Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.SetRawWithNumber.htm" />
+  <HelpKINode Title="processor field" Url="html/F-Simple_Calculator.MainPage.processor.htm" />
+  <HelpKINode Title="ProperExpression method" Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.ProperExpression.htm" />
+  <HelpKINode Title="ProperFormat method" Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.ProperFormat.htm" />
+  <HelpKINode Title="Raw property" Url="html/P-Simple_Calculator.CalculatorProcessor.Problem.Raw.htm" />
+  <HelpKINode Title="Result property" Url="html/P-Simple_Calculator.CalculatorProcessor.Problem.Result.htm" />
+  <HelpKINode Title="ReverseOperationNumber method" Url="html/M-Simple_Calculator.CalculatorProcessor.ReverseOperationNumber.htm" />
+  <HelpKINode Title="SetRawWithNumber method" Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.SetRawWithNumber.htm" />
+  <HelpKINode Title="ShowingHistory property" Url="html/P-Simple_Calculator.MainPage.ShowingHistory.htm" />
+  <HelpKINode Title="Simple_Calculator namespace" Url="html/N-Simple_Calculator.htm" />
+  <HelpKINode Title="Simple_Calculator.App class">
+    <HelpKINode Title="App Class" Url="html/T-Simple_Calculator.App.htm" />
+    <HelpKINode Title="App Members" Url="html/AllMembers.T-Simple_Calculator.App.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Simple_Calculator.CalculatorProcessor class">
+    <HelpKINode Title="CalculatorProcessor Class" Url="html/T-Simple_Calculator.CalculatorProcessor.htm" />
+    <HelpKINode Title="CalculatorProcessor Members" Url="html/AllMembers.T-Simple_Calculator.CalculatorProcessor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Simple_Calculator.CalculatorProcessor.Problem class">
+    <HelpKINode Title="CalculatorProcessor.Problem Class" Url="html/T-Simple_Calculator.CalculatorProcessor.Problem.htm" />
+    <HelpKINode Title="CalculatorProcessor.Problem Members" Url="html/AllMembers.T-Simple_Calculator.CalculatorProcessor.Problem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Simple_Calculator.MainPage class">
+    <HelpKINode Title="MainPage Class" Url="html/T-Simple_Calculator.MainPage.htm" />
+    <HelpKINode Title="MainPage Members" Url="html/AllMembers.T-Simple_Calculator.MainPage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Solve method" Url="html/M-Simple_Calculator.CalculatorProcessor.Solve.htm" />
+  <HelpKINode Title="solver field" Url="html/F-Simple_Calculator.CalculatorProcessor.solver.htm" />
+  <HelpKINode Title="Sqr method" Url="html/M-Simple_Calculator.CalculatorProcessor.Sqr.htm" />
+  <HelpKINode Title="Sqrt method" Url="html/M-Simple_Calculator.CalculatorProcessor.Sqrt.htm" />
+  <HelpKINode Title="Sub method" Url="html/M-Simple_Calculator.CalculatorProcessor.Sub.htm" />
+  <HelpKINode Title="ToString method" Url="html/M-Simple_Calculator.CalculatorProcessor.ToString.htm" />
+</HelpKI>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="5ba3f5b0-e9d3-4eff-bb00-cabc1902b31a" Title="Simple_Calculator Namespace" Url="html/N-Simple_Calculator.htm">
+    <HelpTOCNode Id="7e39a5c8-2b35-4ecb-aaff-784aaf708eab" Title="App Class" Url="html/T-Simple_Calculator.App.htm">
+      <HelpTOCNode Title="App Members" Url="html/AllMembers.T-Simple_Calculator.App.htm" />
+      <HelpTOCNode Title="App Constructor " Url="html/M-Simple_Calculator.App.-ctor.htm" />
+      <HelpTOCNode Id="de463c90-d03f-4fd6-a66f-fa921e40b046" Title="App Methods" Url="html/Methods.T-Simple_Calculator.App.htm">
+        <HelpTOCNode Title="OnLaunched Method " Url="html/M-Simple_Calculator.App.OnLaunched.htm" />
+        <HelpTOCNode Title="OnNavigationFailed Method " Url="html/M-Simple_Calculator.App.OnNavigationFailed.htm" />
+        <HelpTOCNode Title="OnSuspending Method " Url="html/M-Simple_Calculator.App.OnSuspending.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f2493711-e338-455a-b65a-ecec551261ed" Title="CalculatorProcessor Class" Url="html/T-Simple_Calculator.CalculatorProcessor.htm">
+      <HelpTOCNode Title="CalculatorProcessor Members" Url="html/AllMembers.T-Simple_Calculator.CalculatorProcessor.htm" />
+      <HelpTOCNode Title="CalculatorProcessor Constructor " Url="html/M-Simple_Calculator.CalculatorProcessor.-ctor.htm" />
+      <HelpTOCNode Id="c2834f19-1942-44e0-9bc8-31e5163bcc79" Title="CalculatorProcessor Fields" Url="html/Fields.T-Simple_Calculator.CalculatorProcessor.htm">
+        <HelpTOCNode Title="problem Field" Url="html/F-Simple_Calculator.CalculatorProcessor.problem.htm" />
+        <HelpTOCNode Title="solver Field" Url="html/F-Simple_Calculator.CalculatorProcessor.solver.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e394c296-0660-44f0-9742-1172ab73fc81" Title="CalculatorProcessor Methods" Url="html/Methods.T-Simple_Calculator.CalculatorProcessor.htm">
+        <HelpTOCNode Title="Add Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Add.htm" />
+        <HelpTOCNode Title="AppendDecimal Method " Url="html/M-Simple_Calculator.CalculatorProcessor.AppendDecimal.htm" />
+        <HelpTOCNode Title="AppendNumber Method " Url="html/M-Simple_Calculator.CalculatorProcessor.AppendNumber.htm" />
+        <HelpTOCNode Title="C Method " Url="html/M-Simple_Calculator.CalculatorProcessor.C.htm" />
+        <HelpTOCNode Title="CE Method " Url="html/M-Simple_Calculator.CalculatorProcessor.CE.htm" />
+        <HelpTOCNode Title="ClearHistory Method " Url="html/M-Simple_Calculator.CalculatorProcessor.ClearHistory.htm" />
+        <HelpTOCNode Title="Delete Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Delete.htm" />
+        <HelpTOCNode Title="Div Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Div.htm" />
+        <HelpTOCNode Title="Mul Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Mul.htm" />
+        <HelpTOCNode Title="OneOverX Method " Url="html/M-Simple_Calculator.CalculatorProcessor.OneOverX.htm" />
+        <HelpTOCNode Title="Percent Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Percent.htm" />
+        <HelpTOCNode Title="ReverseOperationNumber Method " Url="html/M-Simple_Calculator.CalculatorProcessor.ReverseOperationNumber.htm" />
+        <HelpTOCNode Title="Solve Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Solve.htm" />
+        <HelpTOCNode Title="Sqr Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Sqr.htm" />
+        <HelpTOCNode Title="Sqrt Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Sqrt.htm" />
+        <HelpTOCNode Title="Sub Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Sub.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M-Simple_Calculator.CalculatorProcessor.ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e4925e3a-7894-4215-9ad2-b61a932b9183" Title="CalculatorProcessor Properties" Url="html/Properties.T-Simple_Calculator.CalculatorProcessor.htm">
+        <HelpTOCNode Title="history Property " Url="html/P-Simple_Calculator.CalculatorProcessor.history.htm" />
+        <HelpTOCNode Title="NoDelete Property " Url="html/P-Simple_Calculator.CalculatorProcessor.NoDelete.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="018a9167-5483-45ea-a2d1-f992eaea35be" Title="CalculatorProcessor.Problem Class" Url="html/T-Simple_Calculator.CalculatorProcessor.Problem.htm">
+      <HelpTOCNode Title="CalculatorProcessor.Problem Members" Url="html/AllMembers.T-Simple_Calculator.CalculatorProcessor.Problem.htm" />
+      <HelpTOCNode Id="568bf791-4b8a-4e80-8c37-db904a767f30" Title="Problem Constructor " Url="html/Overload-Simple_Calculator.CalculatorProcessor.Problem.-ctor.htm">
+        <HelpTOCNode Title="Problem Constructor " Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.-ctor.htm" />
+        <HelpTOCNode Title="Problem Constructor (Double)" Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.-ctor_1.htm" />
+        <HelpTOCNode Title="Problem Constructor (String)" Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.-ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d398086b-421a-4f48-b28b-d997331f01b3" Title="CalculatorProcessor.Problem Methods" Url="html/Methods.T-Simple_Calculator.CalculatorProcessor.Problem.htm">
+        <HelpTOCNode Title="NegativeExists Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.NegativeExists.htm" />
+        <HelpTOCNode Title="ProperExpression Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.ProperExpression.htm" />
+        <HelpTOCNode Title="ProperFormat Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.ProperFormat.htm" />
+        <HelpTOCNode Title="SetRawWithNumber Method " Url="html/M-Simple_Calculator.CalculatorProcessor.Problem.SetRawWithNumber.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9306f029-6dda-4c52-b762-fbe81e5ee3d3" Title="CalculatorProcessor.Problem Properties" Url="html/Properties.T-Simple_Calculator.CalculatorProcessor.Problem.htm">
+        <HelpTOCNode Title="Raw Property " Url="html/P-Simple_Calculator.CalculatorProcessor.Problem.Raw.htm" />
+        <HelpTOCNode Title="Result Property " Url="html/P-Simple_Calculator.CalculatorProcessor.Problem.Result.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="74317e28-d828-4dfe-a4ef-4e06d87d5b8f" Title="MainPage Class" Url="html/T-Simple_Calculator.MainPage.htm">
+      <HelpTOCNode Title="MainPage Members" Url="html/AllMembers.T-Simple_Calculator.MainPage.htm" />
+      <HelpTOCNode Title="MainPage Constructor " Url="html/M-Simple_Calculator.MainPage.-ctor.htm" />
+      <HelpTOCNode Id="d3637a5f-b910-4770-81e2-ca23196c16f6" Title="MainPage Fields" Url="html/Fields.T-Simple_Calculator.MainPage.htm">
+        <HelpTOCNode Title="processor Field" Url="html/F-Simple_Calculator.MainPage.processor.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="005c7f86-454c-4106-aa3f-7d5c1dff91d9" Title="MainPage Methods" Url="html/Methods.T-Simple_Calculator.MainPage.htm">
+        <HelpTOCNode Title="CreateHistoryPlaceHolder Method " Url="html/M-Simple_Calculator.MainPage.CreateHistoryPlaceHolder.htm" />
+        <HelpTOCNode Title="Operation Method " Url="html/M-Simple_Calculator.MainPage.Operation.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d42103ca-f88f-4b3a-9472-b7bc18b99f4b" Title="MainPage Properties" Url="html/Properties.T-Simple_Calculator.MainPage.htm">
+        <HelpTOCNode Title="ShowingHistory Property " Url="html/P-Simple_Calculator.MainPage.ShowingHistory.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
