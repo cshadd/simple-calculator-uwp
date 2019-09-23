@@ -7,16 +7,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Calculator", "Simple
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|ARM = Debug|ARM
 		Debug|ARM64 = Debug|ARM64
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|ARM = Release|ARM
 		Release|ARM64 = Release|ARM64
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84548314-8E5C-49C6-A6A3-994548D5A081}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{84548314-8E5C-49C6-A6A3-994548D5A081}.Debug|ARM.ActiveCfg = Debug|ARM
 		{84548314-8E5C-49C6-A6A3-994548D5A081}.Debug|ARM.Build.0 = Debug|ARM
 		{84548314-8E5C-49C6-A6A3-994548D5A081}.Debug|ARM.Deploy.0 = Debug|ARM
@@ -29,6 +32,7 @@ Global
 		{84548314-8E5C-49C6-A6A3-994548D5A081}.Debug|x86.ActiveCfg = Debug|x86
 		{84548314-8E5C-49C6-A6A3-994548D5A081}.Debug|x86.Build.0 = Debug|x86
 		{84548314-8E5C-49C6-A6A3-994548D5A081}.Debug|x86.Deploy.0 = Debug|x86
+		{84548314-8E5C-49C6-A6A3-994548D5A081}.Release|Any CPU.ActiveCfg = Release|x86
 		{84548314-8E5C-49C6-A6A3-994548D5A081}.Release|ARM.ActiveCfg = Release|ARM
 		{84548314-8E5C-49C6-A6A3-994548D5A081}.Release|ARM.Build.0 = Release|ARM
 		{84548314-8E5C-49C6-A6A3-994548D5A081}.Release|ARM.Deploy.0 = Release|ARM

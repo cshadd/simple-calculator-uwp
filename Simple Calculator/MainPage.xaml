@@ -17,10 +17,8 @@
                 <RowDefinition Height="3*"/>
             </Grid.RowDefinitions>
 
-            <Grid Grid.Row="1">
-                <!-- Calculator Result -->
-                <TextBlock x:Name="CalculatorResult" Text="0" TextAlignment="Right" TextTrimming="CharacterEllipsis" FontSize="72" />
-            </Grid>
+            <!-- Calculator Result -->
+            <TextBlock x:Name="CalculatorResult" Grid.Row="1" Text="0" TextAlignment="Right" TextTrimming="CharacterEllipsis" FontSize="72" />
 
             <!-- Calculator Buttons -->
             <Grid x:Name="CalculatorButtons" Grid.Row="2" Grid.Column="0" Visibility="Visible">
@@ -39,79 +37,79 @@
                     <RowDefinition Height="1*"/>
                 </Grid.RowDefinitions>
 
-                <Button Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_Percent" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#xE94C;" FontFamily="Segoe MDL2 Assets" />
                 </Button>
-                <Button Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_CE" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x43;&#x45;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="2" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_7" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x37;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="3" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_4" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x34;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="4" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_1" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x31;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="5" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_Reverse" Grid.Row="5" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#xE94D;" FontFamily="Segoe MDL2 Assets" />
                 </Button>
 
-                <Button Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_Sqrt" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#xE94B;" FontFamily="Segoe MDL2 Assets" />
                 </Button>
-                <Button Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_C" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x43;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="2" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_8" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x38;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="3" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_5" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x35;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="4" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_2" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x32;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="5" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_0" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x30;" FontFamily="Segoe UI" />
                 </Button>
 
-                <Button Grid.Row="0" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
-                    <FontIcon Glyph="&#xE94C;" FontFamily="Segoe MDL2 Assets" />
+                <Button x:Name="Operator_Sqr" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
+                    <FontIcon Glyph="&#x78;&#xB2;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="1" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_Del" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#xE750;" FontFamily="Segoe MDL2 Assets" />
                 </Button>
-                <Button Grid.Row="2" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_9" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x39;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="3" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_6" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x36;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="4" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_3" Grid.Row="4" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x33;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="5" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_Dot" Grid.Row="5" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#x2E;" FontFamily="Segoe UI" />
                 </Button>
 
-                <Button Grid.Row="0" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_1Overx" Grid.Row="0" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#xB9;&#x2F;&#x78;" FontFamily="Segoe UI" />
                 </Button>
-                <Button Grid.Row="1" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_Div" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#xE94A;" FontFamily="Segoe MDL2 Assets" />
                 </Button>
-                <Button Grid.Row="2" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_Mul" Grid.Row="2" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#xE947;" FontFamily="Segoe MDL2 Assets" />
                 </Button>
-                <Button Grid.Row="3" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_Sub" Grid.Row="3" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#xE949;" FontFamily="Segoe MDL2 Assets" />
                 </Button>
-                <Button Grid.Row="4" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_Add" Grid.Row="4" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#xE948;" FontFamily="Segoe MDL2 Assets" />
                 </Button>
-                <Button Grid.Row="5" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Button x:Name="Operator_Equal" Grid.Row="5" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Tapped="Operation">
                     <FontIcon Glyph="&#xE94E;" FontFamily="Segoe MDL2 Assets" />
                 </Button>
             </Grid>
@@ -123,9 +121,9 @@
                     <RowDefinition Height="Auto" />
                 </Grid.RowDefinitions>
 
-                <StackPanel x:Name="CalculatorHistoryStack" Grid.Row="0">
-                    <TextBlock Text="There's no history yet" FontSize="20" />
-                </StackPanel>
+                <ScrollViewer Grid.Row="0">
+                    <StackPanel x:Name="CalculatorHistoryStack" />
+                </ScrollViewer>
 
                 <Grid Grid.Row="1">
                     <Grid.ColumnDefinitions>
@@ -133,11 +131,11 @@
                         <ColumnDefinition Width="Auto" />
                     </Grid.ColumnDefinitions>
 
-                    <Button Grid.Column="1">
+                    <Button x:Name="Operator_TrashHistory" Grid.Column="1" Tapped="Operation">
                         <Button.Background>
                             <SolidColorBrush Opacity="0"/>
                         </Button.Background>
-                        <FontIcon x:Name="ClearCalculatorHistoryStack" Glyph="&#xE74D;" FontFamily="Segoe UI" Visibility="Collapsed" />
+                        <FontIcon Glyph="&#xE74D;" FontFamily="Segoe MDL2 Assets" />
                     </Button>
                 </Grid>
 
@@ -155,7 +153,7 @@
                     </Grid.ColumnDefinitions>
 
                     <TextBlock FontFamily="Segoe UI" Grid.Column="0" Text="Standard" />
-                    <Button Grid.Column="2">
+                    <Button x:Name="Operator_History" Grid.Column="2" Tapped="Operation">
                         <Button.Background>
                             <SolidColorBrush Opacity="0"/>
                         </Button.Background>
@@ -166,7 +164,7 @@
 
             <NavigationView.MenuItems>
                 <NavigationViewItemHeader Content="Calculator" FontFamily="Segoe UI" />
-                <NavigationViewItem Tapped="Exit_Tapped">
+                <NavigationViewItem x:Name="Operator_Exit" Tapped="Operation">
                     <NavigationViewItem.Icon>
                         <FontIcon Glyph="&#xE711;" FontFamily="Segoe MDL2 Assets" />
                     </NavigationViewItem.Icon>
